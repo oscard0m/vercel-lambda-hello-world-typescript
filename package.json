@@ -1,0 +1,16 @@
+{
+  "name": "vercel-lambda-function-hello-world-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vercel/node": "^2.5.11",
+    "typescript": "^4.8.2"
+  }
+}

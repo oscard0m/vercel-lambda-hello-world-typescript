@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "@vercel/node": "^5.0.0",
-    "typescript": "^5.0.0"
+    "typescript": "^6.0.0"
   }
 }
